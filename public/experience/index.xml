@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experience on Amelia Kwan</title>
+    <link>/experience/</link>
+    <description>Recent content in Experience on Amelia Kwan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Director | Youth In Politics</title>
+      <link>/custom1/post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom1/post2/</guid>
+      <description>I&amp;rsquo;ve always had a passion for writing, as well as global issues surrounding human rights, culture, technology, and politics, so much so that Journalism was actually my second choice for my post-secondary education. I loved watching Johnny Harris videos, reading articles, and debating with my friends about what was going on in the world - and I was fortunate to have the opportunity to be part of something bigger, and to produce the same kind of content I was consuming.</description>
+    </item>
+    
+    <item>
+      <title>Kitchen Staff | Sansotei Ramen</title>
+      <link>/custom1/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom1/post1/</guid>
+      <description>This was my first &amp;ldquo;real job&amp;rdquo;, my first experience working full-time, and my first experience working in a restaurant. I loved learning about the craft of ramen, the workflow of a kitchen and its staff, how inventory is managed, and working alongside many other people to make it happen.
+At Sansotei, the kitchen staff were in charge of everything in the back - from managing inventory and preparing food to dishwashing and cleaning.</description>
+    </item>
+    
+    <item>
+      <title>High School Tutor | Teenage Tutors</title>
+      <link>/custom1/post3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom1/post3/</guid>
+      <description>Being a tutor, and being able to mentor and teach others never felt like a job to me. Every student is unique, with their own strengths and challenges, and I loved the process of tailoring my teaching approach to each one. I&amp;rsquo;ve had so many amazing mentors in my own life, and I wanted to do the exact same for others as well.
+This experience truly honed my communication and interpersonal skills.</description>
+    </item>
+    
+  </channel>
+</rss>
